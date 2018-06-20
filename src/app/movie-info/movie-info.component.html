@@ -1,0 +1,75 @@
+<div class="card mb-3 mt-2 ml-auto mr-auto"
+     style="max-width: 80rem;flex-flow: row"
+     *ngFor="let movie of movieInfoArray | paginate: {itemsPerPage: 5, currentPage:page, id: '1'}; let i = index"
+     [ngClass]="{'text-white bg-info': ix(i),'border-info': !ix(i)}"
+     data-toggle="modal"
+     [attr.data-target]="'#Modal' + i"
+>
+  <div class="card-image">
+    <img style="height: 325px; display: block;" src="{{movie.poster}}" alt="Card image">
+  </div>
+  <div class="card-body">
+    <h4 class="card-title">{{movie.name}}</h4>
+    <div class="card-header">Author: {{movie.author}} Actors: {{movie.actors}}</div>
+    <p class="card-text">{{movie.desc}}</p>
+  </div>
+
+  <!-- Modal -->
+  <div class="modal fade" width="auto" id="{{'Modal' + i}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">{{movie.name}}</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <div class="card">
+            <div class="card-body" [innerHTML] = "movie.video_Url | safe">
+
+            </div>
+          </div>
+        </div>
+        <div class="modal-footer">
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<pagination-controls class="ml-auto mr-auto"
+  (pageChange)="page = $event"
+  id="1"
+  maxSize="5"
+  directionLinks="true"
+  autoHide="true"
+>
+</pagination-controls>
+
+<!--<div class="ml-auto mr-auto">-->
+<!--<ul class="pagination">-->
+<!--<li class="page-item disabled">-->
+<!--<a class="page-link" href="#">&laquo;</a>-->
+<!--</li>-->
+<!--<li class="page-item active">-->
+<!--<a class="page-link" href="#">1</a>-->
+<!--</li>-->
+<!--<li class="page-item">-->
+<!--<a class="page-link" href="#">2</a>-->
+<!--</li>-->
+<!--<li class="page-item">-->
+<!--<a class="page-link" href="#">3</a>-->
+<!--</li>-->
+<!--<li class="page-item">-->
+<!--<a class="page-link" href="#">4</a>-->
+<!--</li>-->
+<!--<li class="page-item">-->
+<!--<a class="page-link" href="#">5</a>-->
+<!--</li>-->
+<!--<li class="page-item">-->
+<!--<a class="page-link" href="#">&raquo;</a>-->
+<!--</li>-->
+<!--</ul>-->
+<!--</div>-->
