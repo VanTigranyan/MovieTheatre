@@ -1,5 +1,7 @@
 import {Component, OnInit, Output} from '@angular/core';
 import { DataService } from '../data.service';
+import { PaginatePipe } from 'ng2-pagination';
+
 @Component({
   selector: 'app-movie-info',
   templateUrl: './movie-info.component.html',
