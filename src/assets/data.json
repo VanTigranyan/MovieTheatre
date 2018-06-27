@@ -1,17 +1,15 @@
 [
   {
-    "id": 1,
-    "name": "Harry Potter and Deathly Hallows",
-    "short_desc": "The last part about the boy who had survived",
-    "desc": "В этой части описывается путешествие знаменитой троицы приятелей, отправляющихся на рисковое дело по уничтожению скрытых недр вечной жизни Волан-де-Морта, жаждущего расправиться с активно действующим лицом фильма. Приятели должны будут самостоятельно, без поддержки своих преподавателей или еще чьей-либо, справиться с противоборствующей стороной, полагаясь лишь на себя. Темная власть творит все возможные попытки для того, чтобы ключевые персонажи перессорились между собой, в итоге, прекратив противостояние. Магическая школа, тем временем, находится под тотальным контролем со стороны зловещих сил. Они уничтожают всех, кто стремится им противоречить. Самый трогательный момент истории – смерть домовика Добби, которая происходит прямо на руках основного персонажа. Троим друзьям, в итоге, все-таки удалось воссоединиться и дать бой зловещему Волан-де-Морту…",
-    "author": "Joanne Rowling",
-    "year": "2010",
-    "actors": "Дэниэл Рэдклифф, Руперт Гринт, Эмма Уотсон, Том Фелтон, Бонни Райт, Алан Рикман, Рэйф Файнс, Хелена Бонем Картер, Майкл Гэмбон, Брендан Глисон",
-    "poster": "http://kinogo.cc/uploads/posts/2013-07/thumbs/1372709543_harry-potter-8.jpg",
-    "video_Url": "<iframe src='//vk.com/video_ext.php?oid=-146784120&id=456239037&hash=74ca6d2230bf1ab2&hd=2' width='100%' height='500px' frameborder='0' allowfullscreen></iframe>"
-  },
+  "name": "Harry Potter and Deathly Hallows",
+  "short_desc": "The last part about the boy who had survived",
+  "desc": "В этой части описывается путешествие знаменитой троицы приятелей, отправляющихся на рисковое дело по уничтожению скрытых недр вечной жизни Волан-де-Морта, жаждущего расправиться с активно действующим лицом фильма. Приятели должны будут самостоятельно, без поддержки своих преподавателей или еще чьей-либо, справиться с противоборствующей стороной, полагаясь лишь на себя. Темная власть творит все возможные попытки для того, чтобы ключевые персонажи перессорились между собой, в итоге, прекратив противостояние. Магическая школа, тем временем, находится под тотальным контролем со стороны зловещих сил. Они уничтожают всех, кто стремится им противоречить. Самый трогательный момент истории – смерть домовика Добби, которая происходит прямо на руках основного персонажа. Троим друзьям, в итоге, все-таки удалось воссоединиться и дать бой зловещему Волан-де-Морту…",
+  "author": "Joanne Rowling",
+  "year": "2010",
+  "actors": "Дэниэл Рэдклифф, Руперт Гринт, Эмма Уотсон, Том Фелтон, Бонни Райт, Алан Рикман, Рэйф Файнс, Хелена Бонем Картер, Майкл Гэмбон, Брендан Глисон",
+  "poster": "http://kinogo.cc/uploads/posts/2013-07/thumbs/1372709543_harry-potter-8.jpg",
+  "video_Url": "<iframe src='//vk.com/video_ext.php?oid=-146784120&id=456239037&hash=74ca6d2230bf1ab2&hd=2' width='100%' height='500px' frameborder='0' allowfullscreen></iframe>"
+},
   {
-    "id": 2,
     "name": "Мир Юрского периода 2 (2018) ",
     "short_desc": "«Фулбар» - остров, получивший недавно колоссальную известность. В очередной раз это уникальное место привлекло гостей.",
     "desc": "«Фулбар» - остров, получивший недавно колоссальную известность. В очередной раз это уникальное место привлекло гостей. На островке произошла чудовищная трагедия, спровоцировавшая появления колоссального количества жертв. Идея создания парка развлечений вначале казалась – «удивительным средством дополнительного заработка». Опытные бизнесмены, разбирающиеся в науке, были готовы идти на огромные риски ради известности. Чрезмерная спешка, с которой выполнялись все действия, привела неожиданно к плачевным обстоятельствам. Загоны, в которых находились доисторические животные, оказались не прочными, а система безопасности начала функционировать в неподходящий момент. \n Из-за череды нелепых ошибок погибло баснословное количество граждан. Невзирая на эту трагедию, общественность вновь решила рискнуть, посетив заново открытый парк. Появился новый спонсор, уверенный в собственных силах. Мужчина готов взять на себя ответственность за функционирование комплекса. Огромное количество приключений предстоит пережить влиятельному лицу, желающему – «Прославить свое имя».",
@@ -22,7 +20,6 @@
     "video_Url": "<iframe src='http://hdgo.cc/video/ff5wvtdet5xpw9yc4nffkuca/17226/' width='100%' height='500px' border='0' frameborder='0' allowfullscreen></iframe>"
   },
   {
-    "id": 3,
     "name": "Incredibles 2",
     "short_desc": "The last part about the boy who had survived",
     "desc": "Многие называют семейство «Парр» весьма удивительным. Они воспитывают трёх очаровательных детишек, и по совместительству спасают мир от появившихся угроз. Добропорядочные граждане всегда нуждаются в защите, и Боб с Хелен готовы прийти на помощь обществу. За их плечами много успешно проведенных операций, однако общество не помнит их добрых поступков. Сейчас главные герои оказались в бедственном положении. Представители социума уверены, что Мистер Исключительный и его супруга – Эластика лишь мешаются правоохранительным органам, не позволяя им выполнять важную работу. Однажды был вынесен суровый приговор: - «Представители этой семьи больше не имеют возможности пользоваться своими способностями».\n Этот фактор сильно огорчает действующих персонажей мультфильма. Ребята не готовы сдаваться. Им хочется доказать, что каждое совершенное ими действие несет в себе смысл. Однажды появляется отпетый злодей, который намеренно пробует поработить целый мир. У полиции не получается задержать злодея, и тогда в ход идут силы представителей «Суперсемейки».",
@@ -33,7 +30,6 @@
     "video_Url": "<iframe src='http://hdgo.cc/video/ff5wvtdet5xpw9yc4nffkuca/17215/' width='100%' height='500px' border='0' frameborder='0' allowfullscreen></iframe>"
   },
   {
-    "id": 4,
     "name": "Fantastic Beasts and Where to Find Them",
     "short_desc": "The last part about the boy who had survived",
     "desc": "Ньют Скамандер зоолог и пользуется большой популярностью, помимо этого он был еще и магом. За все годы своей жизни, он смог побывать на самых отдаленных уголках планеты. Он собрал невероятную коллекцию необыкновенных волшебных существ, которые могут поразить воображение любого. Он долго изучал фауна, которая была наполнена волшебством, благодаря чему он смог объяснить, чем именно отличаются фантастические звери от фантастических существ. Ему хотелось донести все свои познания до других волшебников. И тогда он отправился в министерство магии для того, чтобы сообщить что он собрал издать свою книгу.\n Когда ему дали на то разрешение, то он сразу же принялся описывать в ней все с чем ему за все годы пришлось столкнуться. Своему издательству он дал такое название, как Фантастические звери и места в которых они могут обитать. Затем в школе волшебства, эта книга стала обязательным учебником для молодых учеников. Спустя семьдесят лет эта книга попадет в руки известного волшебника по имени Гарри Потер именно с того момента и начнутся все его невероятные приключения.",
@@ -44,7 +40,6 @@
     "video_Url": "<iframe src='http://hdgo.cc/video/ff5wvtdet5xpw9yc4nffkuca/8293/' width='100%' height='500px' border='0' frameborder='0' allowfullscreen></iframe>"
   },
   {
-    "id": 5,
     "name": "Harry Potter and Deathly Hallows",
     "short_desc": "The last part about the boy who had survived",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime delectus vitae molestias maiores doloremque vel blanditiis tempore hic minima mollitia.",
@@ -55,7 +50,6 @@
     "video_Url": "<iframe src='//vk.com/video_ext.php?oid=-146784120&id=456239037&hash=74ca6d2230bf1ab2&hd=2' width='100%' height='500px' frameborder='0' allowfullscreen></iframe>"
   },
   {
-    "id": 6,
     "name": "Harry Potter and Deathly Hallows",
     "short_desc": "The last part about the boy who had survived",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime delectus vitae molestias maiores doloremque vel blanditiis tempore hic minima mollitia.",
@@ -66,7 +60,6 @@
     "video_Url": "<iframe src='//vk.com/video_ext.php?oid=-146784120&id=456239037&hash=74ca6d2230bf1ab2&hd=2' width='100%' height='500px' frameborder='0' allowfullscreen></iframe>"
   },
   {
-    "id": 7,
     "name": "Harry Potter and Deathly Hallows",
     "short_desc": "The last part about the boy who had survived",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime delectus vitae molestias maiores doloremque vel blanditiis tempore hic minima mollitia.",
@@ -77,7 +70,6 @@
     "video_Url": "<iframe src='//vk.com/video_ext.php?oid=-146784120&id=456239037&hash=74ca6d2230bf1ab2&hd=2' width='100%' height='500px' frameborder='0' allowfullscreen></iframe>"
   },
   {
-    "id": 8,
     "name": "Harry Potter and Deathly Hallows",
     "short_desc": "The last part about the boy who had survived",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime delectus vitae molestias maiores doloremque vel blanditiis tempore hic minima mollitia.",
@@ -88,7 +80,6 @@
     "video_Url": "<iframe src='//vk.com/video_ext.php?oid=-146784120&id=456239037&hash=74ca6d2230bf1ab2&hd=2' width='100%' height='500px' frameborder='0' allowfullscreen></iframe>"
   },
   {
-    "id": 9,
     "name": "Harry Potter and Deathly Hallows",
     "short_desc": "The last part about the boy who had survived",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime delectus vitae molestias maiores doloremque vel blanditiis tempore hic minima mollitia.",
@@ -99,7 +90,6 @@
     "video_Url": "<iframe src='//vk.com/video_ext.php?oid=-146784120&id=456239037&hash=74ca6d2230bf1ab2&hd=2' width='100%' height='500px' frameborder='0' allowfullscreen></iframe>"
   },
   {
-    "id": 10,
     "name": "Harry Potter and Deathly Hallows",
     "short_desc": "The last part about the boy who had survived",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime delectus vitae molestias maiores doloremque vel blanditiis tempore hic minima mollitia.",
@@ -110,7 +100,6 @@
     "video_Url": "<iframe src='//vk.com/video_ext.php?oid=-146784120&id=456239037&hash=74ca6d2230bf1ab2&hd=2' width='100%' height='500px' frameborder='0' allowfullscreen></iframe>"
   },
   {
-    "id": 11,
     "name": "Harry Potter and Deathly Hallows",
     "short_desc": "The last part about the boy who had survived",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime delectus vitae molestias maiores doloremque vel blanditiis tempore hic minima mollitia.",
@@ -121,7 +110,6 @@
     "video_Url": "<iframe src='//vk.com/video_ext.php?oid=-146784120&id=456239037&hash=74ca6d2230bf1ab2&hd=2' width='100%' height='500px' frameborder='0' allowfullscreen></iframe>"
   },
   {
-    "id": 12,
     "name": "Harry Potter and Deathly Hallows",
     "short_desc": "The last part about the boy who had survived",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime delectus vitae molestias maiores doloremque vel blanditiis tempore hic minima mollitia.",
@@ -132,7 +120,6 @@
     "video_Url": "<iframe src='//vk.com/video_ext.php?oid=-146784120&id=456239037&hash=74ca6d2230bf1ab2&hd=2' width='100%' height='500px' frameborder='0' allowfullscreen></iframe>"
   },
   {
-    "id": 13,
     "name": "Harry Potter and Deathly Hallows",
     "short_desc": "The last part about the boy who had survived",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime delectus vitae molestias maiores doloremque vel blanditiis tempore hic minima mollitia.",
@@ -143,7 +130,6 @@
     "video_Url": "<iframe src='//vk.com/video_ext.php?oid=-146784120&id=456239037&hash=74ca6d2230bf1ab2&hd=2' width='100%' height='500px' frameborder='0' allowfullscreen></iframe>"
   },
   {
-    "id": 14,
     "name": "Harry Potter and Deathly Hallows",
     "short_desc": "The last part about the boy who had survived",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime delectus vitae molestias maiores doloremque vel blanditiis tempore hic minima mollitia.",
@@ -154,7 +140,6 @@
     "video_Url": "<iframe src='//vk.com/video_ext.php?oid=-146784120&id=456239037&hash=74ca6d2230bf1ab2&hd=2' width='100%' height='500px' frameborder='0' allowfullscreen></iframe>"
   },
   {
-    "id": 15,
     "name": "Harry Potter and Deathly Hallows",
     "short_desc": "The last part about the boy who had survived",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime delectus vitae molestias maiores doloremque vel blanditiis tempore hic minima mollitia.",
@@ -165,7 +150,6 @@
     "video_Url": "<iframe src='//vk.com/video_ext.php?oid=-146784120&id=456239037&hash=74ca6d2230bf1ab2&hd=2' width='100%' height='500px' frameborder='0' allowfullscreen></iframe>"
   },
   {
-    "id": 16,
     "name": "Harry Potter and Deathly Hallows",
     "short_desc": "The last part about the boy who had survived",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime delectus vitae molestias maiores doloremque vel blanditiis tempore hic minima mollitia.",

@@ -2,7 +2,6 @@ const mongoose = require('mongoose');
 const schema = mongoose.Schema;
 
 const MovieSchema = new schema({
-  id: Number,
   name: String,
   short_desc: String,
   desc: String,
@@ -15,5 +14,5 @@ const MovieSchema = new schema({
 
 module.exports = {
   MovieSchema
-}
+};
 

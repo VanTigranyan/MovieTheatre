@@ -12,6 +12,8 @@ const mongoose = require('mongoose');
 const methodOverride = require('method-override');
 const cors = require('cors');
 const data = require('../src/assets/data');
+const ObjectID = require('mongodb').ObjectID;
+
 
 // Config
 const config = require('./config');
@@ -77,28 +79,30 @@ app.get('/api/', (req, res) => {
 
 app.get('/api/data',(req, res) => {
   movies.find().then((movies) => {
+    console.log(movies);
     res.send(movies);
   })
 });
 
-app.post('api/data',(req,res) => {
-  let d = JSON.parse(data);
-  d.forEach((item) => {
+app.post('/api/data',(req,res) => {
+  let d = data;
+  // d.forEach((item) => {
     let movie = new movies({
-      name: item.name,
-      desc: item.desc,
-      id: item.id,
-      short_desc: item.short_desc,
-      author: item.author,
-      year: item.year,
-      actors: item.actors,
-      poster: item.poster,
-      video_Url: item.video_Url
+      name: data.name,
+      desc: data.desc,
+      short_desc: data.short_desc,
+      author: data.author,
+      year: data.year,
+      actors: data.actors,
+      poster: data.poster,
+      video_Url: data.video_Url,
+      _id: new ObjectID()
     });
-    movie.save();
-  })
-  res.send(movies)
-})
+    movie.save().then(()=> {
+      res.send(200);
+    });
+  // });
+});
 
 
 // Pass routing to Angular app

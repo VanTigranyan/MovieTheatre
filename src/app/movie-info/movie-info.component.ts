@@ -1,6 +1,7 @@
 import {Component, OnInit, Output} from '@angular/core';
-import { DataService } from '../data.service';
-import { PaginatePipe } from 'ng2-pagination';
+import {DataService} from '../data.service';
+import {PaginatePipe} from 'ng2-pagination';
+import {Router} from '@angular/router';
 
 @Component({
   selector: 'app-movie-info',
@@ -9,7 +10,9 @@ import { PaginatePipe } from 'ng2-pagination';
 })
 export class MovieInfoComponent implements OnInit {
 
-  constructor(private data: DataService) { }
+  constructor(private data: DataService, private router: Router) {
+  }
+
   movieInfoArray;
   movieSrc;
 
@@ -19,6 +22,17 @@ export class MovieInfoComponent implements OnInit {
 
   ngOnInit() {
     this.data.getData().subscribe(data => this.movieInfoArray = data);
+  }
+
+  openMoviePage(index) {
+    this.router.navigate([
+      '/movie-page'
+    ], {
+      queryParams: {
+        id: index
+      }
+    })
+    ;
   }
 
 }

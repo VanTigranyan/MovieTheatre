@@ -9,13 +9,15 @@ import { HeaderComponent } from './header/header.component';
 import { MovieInfoComponent } from './movie-info/movie-info.component';
 import { DataService } from './data.service';
 import { SafePipe } from './safe.pipe';
+import { MoviePageComponent } from './movie-page/movie-page.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     MovieInfoComponent,
-    SafePipe
+    SafePipe,
+    MoviePageComponent
   ],
   imports: [
     BrowserModule,
